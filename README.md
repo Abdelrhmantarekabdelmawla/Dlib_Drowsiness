@@ -1,4 +1,3 @@
-````markdown
 # 💤 Drowsiness Detection Model using Dlib
 
 This repository contains a Python-based real-time drowsiness detection system using Dlib's facial landmark predictor. It tracks eye and mouth movements to detect signs of fatigue or yawning.
@@ -104,5 +103,3 @@ python drowsiness_detector.py
 ## 📝 License
 
 This project is licensed under the MIT License.
-
-```
